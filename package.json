@@ -1,0 +1,40 @@
+{
+  "name": "gulp-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-folders": "^1.1.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-image": "^2.7.5",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-string-replace": "^0.4.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uglifycss": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creatop-john/gulp-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creatop-john/gulp-lab/issues"
+  },
+  "homepage": "https://github.com/creatop-john/gulp-lab#readme"
+}

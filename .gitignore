@@ -1,0 +1,12 @@
+web.config
+*.db
+@*.*
+**/_notes/
+PureDatabase.dll
+/DB
+/upfiles
+**/@*/
+.sass-cache/
+*.css.map
+/include/front-end/*@
+/node_modules
